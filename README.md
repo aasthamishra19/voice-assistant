@@ -1,8 +1,8 @@
-**Jarvis** is a sophisticated personal voice assistant built in Python, leveraging advanced libraries to provide seamless interactions and useful functionalities. From managing your daily tasks to entertaining you with jokes, Jarvis is designed to make your life easier and more enjoyable.
+**Voice Assistant** is a sophisticated personal voice assistant built in Python, leveraging advanced libraries to provide seamless interactions and useful functionalities. From managing your daily tasks to entertaining you with jokes, Jarvis is designed to make your life easier and more enjoyable.
 
 ## Overview
 
-Jarvis integrates multiple functionalities into one voice-controlled assistant. It can handle web searches, play music, send emails, provide weather updates, and more, all through simple voice commands. The assistant is built to be intuitive, interactive, and user-friendly, making it an ideal tool for both productivity and leisure.
+It integrates multiple functionalities into one voice-controlled assistant. It can handle web searches, play music, send emails, provide weather updates, and more, all through simple voice commands. The assistant is built to be intuitive, interactive, and user-friendly, making it an ideal tool for both productivity and leisure.
 
 Key Features
 
